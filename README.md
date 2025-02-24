@@ -17,7 +17,7 @@ The dashboard focuses on optimizing call centre performance by analyzing key met
 - Provided a holistic view of service quality, driving improvements in customer experience.
 
 ## Technologies Used
-- **Power BI**: Data visualization and dashboard development.
+- **Power BI**:  Power BI, Data Cleaning, Exploratory Data Analysis
 
 ## Installation & Usage
 1. Download the **Power BI file** (`CallCentreDashboard.pbix`) from this repository.
